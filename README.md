@@ -1,0 +1,2 @@
+# On-demand-remote-PC-moniotoring-System
+On demand remote pc monotoring system is a java based implementation of remote desktop protocol which allows the admin to monitor the system of the employee on demand.Here, I have used socket to communicate with client's system. It's basically a chat between two systems where the client sends screenshots to server and server paste them in a java internal frame in real time.
